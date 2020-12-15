@@ -1,0 +1,2 @@
+print ('első macska')
+#kommentek

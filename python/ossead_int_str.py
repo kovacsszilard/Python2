@@ -1,0 +1,5 @@
+a=input('első szám: ')
+b=input('második szám: ')
+a_int= int(a)
+b_int= int(b)
+print ('A két szám összege: '+ str(a_int+b_int))
